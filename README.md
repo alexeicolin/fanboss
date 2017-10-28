@@ -7,4 +7,4 @@ using internal or external (TMP36) temperature sensor and PWM output.
 Schematic
 ---------
 
-TODO: draw schematic.
+![fanboss schematic](fanboss.svg)
